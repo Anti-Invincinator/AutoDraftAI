@@ -1,0 +1,35 @@
+# Ignore Python virtual environments
+venv/
+venv310/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.tmp
+
+# YOLOv8 training outputs
+runs/
+*.pt
+
+# DXF and prediction artifacts
+*.dxf
+*.onnx
+*.tflite
+
+# Jupyter/VS Code specific
+.ipynb_checkpoints/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore dataset folders
+data/
+soda_dataset/
+datasets/

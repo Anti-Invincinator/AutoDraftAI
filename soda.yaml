@@ -1,0 +1,21 @@
+train: J:/AutoCAD_AI/soda_dataset/images/train
+val: J:/AutoCAD_AI/soda_dataset/images/val
+test: J:/AutoCAD_AI/soda_dataset/images/test
+
+names:
+  - board
+  - brick
+  - cutter
+  - ebox
+  - fence
+  - handcart
+  - helmet
+  - hook
+  - hopper
+  - person
+  - rebar
+  - scaffold
+  - slogan
+  - vest
+  - wood
+nc: 15
