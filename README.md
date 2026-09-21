@@ -1,4 +1,10 @@
-# 🏗️ AutoDraftAI
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=600&lines=AutoDraftAI+%F0%9F%8F%97%EF%B8%8F;Construction+Vision+%E2%86%92+CAD+Automation" alt="Typing SVG" />
+
+[![by Dravid](https://img.shields.io/badge/by-Dravid-4285F4?style=flat-square)](https://github.com/Anti-Invincinator)
+
+</div>
 
 **AutoDraftAI** is an AI-powered construction site image processing pipeline that:
 - Detects objects like people, helmets, and scaffolds
